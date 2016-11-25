@@ -56,7 +56,7 @@ namespace starwarsTrenchRun
             + "\nwill set up a chain reaction. The shaft is "
             + "\nray-shielded, so you'll have to use proton torpedoes.", messageM, brush, 20, 80);
 
-            Thread.Sleep(2000);
+            Thread.Sleep(32000);
 
             pen2.Width = 27;
             lineUp = 283;
